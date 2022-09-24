@@ -1,2 +1,3 @@
-# awesome-transformers
-A curated list of awesome transformer resources
+# Awesome Transformers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome transformer resources and models
